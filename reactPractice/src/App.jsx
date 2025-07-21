@@ -1,11 +1,14 @@
 import React from 'react'
 import './index.css'
-import EsignatureApp from './Projects/P01_E_signature_App/EsignatureApp'
+// import EsignatureApp from './Projects/Project_01/EsignatureApp'
+import ColorRandmaze from './Projects/Project_02/ColorRandmaze'
 
 function App() {
   return (
     <>
-      <EsignatureApp/>
+      {/* <EsignatureApp/> */}
+      <ColorRandmaze/>
+
   
     </>
   )
