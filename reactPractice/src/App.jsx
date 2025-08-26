@@ -10,7 +10,7 @@ function App() {
     <>
       {/* <EsignatureApp/> */}
       {/* <ColorRandmaze/> */}
-      {/* <LikePhotApp/> */}
+         {/* <LikePhotApp/> */}
       <Testimonials/>
     </>
   )
